@@ -1,0 +1,1 @@
+41cd3cd3cd68510fa425c297038c5b77521c75cf24a635f9cf02391b0d7742ce  ./target/wasm32-unknown-unknown/release/lottery.wasm
